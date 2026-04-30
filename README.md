@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🧠 DSL Compiler using Flex, Bison & LLVM
 
 ## 👩‍💻 Author
@@ -37,7 +36,9 @@ llc → output.s → gcc → native executable
 | GCC | Final Executable |
 
 ## 📂 Project Structure
+
 Compiler-Design-DSL_RA2311026050023_JosephineSherly/
+
 ├── src/
 │   ├── lexer.l
 │   ├── parser.y
@@ -103,5 +104,3 @@ Semantic: Variable 'z' declared.
 - Add if/while control flow
 - Support float and string types
 - Add function definitions
-EOF
-echo "✅ README.md created"
