@@ -9,7 +9,7 @@
 |---|---|
 | Name | Josephine Sherly |
 | Reg No | RA2311026050023 |
-| Department | Computer Science & Engineering |
+| Department | Computer Science & Engineering | AIML
 | Institution | SRM Institute of Science and Technology |
 | Course | Compiler Design |
 
