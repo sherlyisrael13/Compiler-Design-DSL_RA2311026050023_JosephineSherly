@@ -1,0 +1,7 @@
+src/compiler
+src/lex.yy.c
+src/parser.tab.c
+src/parser.tab.h
+output/program
+*.o
+*.s
